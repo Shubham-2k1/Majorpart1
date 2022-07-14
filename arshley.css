@@ -283,3 +283,371 @@ border-radius: 94.5px;
     line-height: 149.8%;
     color: #FFFFFF;
 }
+
+#box{
+    position: absolute;
+    width: 1441px;
+    height: 519px;
+    left: 4px;
+    top: 3069px;
+    background: #FFFFFF;
+    box-shadow: inset 0px 6px 5px #EBECFF;
+}
+
+#bottomline{
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 3px;
+    top: 3579px;
+}
+
+#info{
+    position: absolute;
+    width: 368px;
+    height: 90px;
+    left: 128px;
+    top: 3116px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 149.8%;
+    /* or 45px */
+    color: #4F516B;
+}
+
+#contact{
+    position: absolute;
+    width: 336px;
+    height: 22px;
+    left: 128px;
+    top: 3234px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 149.8%;
+    /* or 30px */
+    color: #505050;
+}
+
+#copyright{
+    position: absolute;
+    width: 514px;
+    height: 27px;
+    left: 453px;
+    top: 3619px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    text-align: center;
+    color: #66747B;
+}
+
+#home{
+    position: absolute;
+    width: 64px;
+    height: 27px;
+    left: 125px;
+    top: 3313px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#Renaissance{
+    position: absolute;
+    width: 128px;
+    height: 27px;
+    left: 125px;
+    top: 3356px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#course{
+    position: absolute;
+    width: 191px;
+    height: 27px;
+    left: 125px;
+    top: 3399px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#pricing{
+    position: absolute;
+    width: 68px;
+    height: 27px;
+    left: 347px;
+    top: 3313px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#story{
+    position: absolute;
+    width: 71px;
+    height: 27px;
+    left: 347px;
+    top: 3356px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#blogs{
+    position: absolute;
+    width: 55px;
+    height: 27px;
+    left: 347px;
+    top: 3399px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#teach{
+    position: absolute;
+    width: 135px;
+    height: 27px;
+    left: 470px;
+    top: 3313px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#TaC{
+    position: absolute;
+    width: 195px;
+    height: 27px;
+    left: 470px;
+    top: 3399px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#scholar{
+    position: absolute;
+    width: 161px;
+    height: 27px;
+    left: 470px;
+    top: 3356px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#career{
+    position: absolute;
+    width: 84px;
+    height: 27px;
+    left: 470px;
+    top: 3442px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+    color: #4F516B;
+}
+
+#expertbox{
+    position: absolute;
+width: 366px;
+height: 78px;
+left: 935px;
+top: 3514px;
+
+background: #3A3F8E;
+border-radius: 10px 10px 0px 0px;
+}
+
+#expertcontent{
+    position: absolute;
+    width: 210px;
+    height: 25px;
+    left: 1045px;
+    top: 3541px;
+    font-family: 'Gilroy-Bold';
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+#content{
+    position: absolute;
+    width: 466px;
+    height: 48px;
+    left: 855px;
+    top: 3187px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 149.8%;
+    /* or 24px */
+    color: #505050;
+}
+
+#chat{
+    position: absolute;
+    width: 466px;
+    height: 48px;
+    left: 960px;
+    top: 3542px;
+}
+
+#chathalf{
+    position: absolute;
+    width: 466px;
+    height: 48px;
+    left: 971px;
+    top: 3528px;
+}
+
+#b1{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 855px;
+    top: 3274px;
+    background: #FAFAFB;
+    border-radius: 12px;
+}
+
+#b2{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 935px;
+top: 3273px;
+
+background: #FAFAFB;
+border-radius: 12px;
+}
+
+#b3{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 1015px;
+top: 3273px;
+
+background: #FAFAFB;
+border-radius: 12px;
+}
+
+#b4{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 1095px;
+top: 3274px;
+
+background: #FAFAFB;
+border-radius: 12px;
+}
+
+#b5{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 1175px;
+top: 3274px;
+
+background: #FAFAFB;
+border-radius: 12px;
+}
+
+#link1{
+    position: absolute;
+    left: 870px;
+    top: 3287px;
+}
+
+#link2{
+    position: absolute;
+    left: 950px;
+    top: 3293px;
+}
+
+#link3{
+    position: absolute;
+    left: 1037px;
+    top: 3287px;
+}
+
+#link4{
+    position: absolute;
+    left: 1110px;
+    top: 3287px;
+}
+
+#link5{
+    position: absolute;
+    left: 1189px;
+    top: 3289px;
+}
+
+.buttons:hover{
+    cursor: pointer;
+}
+
+#PP{
+    position: absolute;
+    width: 213px;
+    height: 24px;
+    left: 904px;
+    top: 3128px;
+    font-family: 'Gilroy-Bold';
+    font-size: 18.7544px;
+    line-height: 22px;
+    color: #444BAB;
+}
