@@ -651,3 +651,11 @@ border-radius: 12px;
     line-height: 22px;
     color: #444BAB;
 }
+
+#PPlogo{
+    position: absolute;
+    width: 35.85px;
+    height: 42.75px;
+    
+    background: black;
+}
